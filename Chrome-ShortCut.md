@@ -18,6 +18,6 @@
 
 ####窗口控制
 
-    + **F6** 或 **Ctrl+L** 或 **Alt+D** 选中网址区域中的内容
-    + **Ctrl + Enter** 自动补充网址种的"www." 和 ".com"
-    + **Ctrl + Shift + B" 打开或关闭书签栏 
++ **F6** 或 **Ctrl+L** 或 **Alt+D** 选中网址区域中的内容
++ **Ctrl + Enter** 自动补充网址种的"www." 和 ".com"
++ **Ctrl + Shift + B" 打开或关闭书签栏 
