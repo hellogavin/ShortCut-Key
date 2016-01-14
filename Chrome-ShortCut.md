@@ -15,3 +15,8 @@
 + **Ctrl+Shift+Tab** 或 **Ctrl+PgUp** 切换到上一个标签页 
 + **Ctrl+W** 或 **Ctrl+F4** 关闭当前标签页或弹出式窗口 
 + **Alt+Home** 打开主页
+
+##窗口控制
+    + **F6** 或 **Ctrl+L** 或 **Alt+D** 选中网址区域中的内容
+    + **Ctrl + Enter** 自动补充网址种的"www." 和 ".com"
+    + **Ctrl + Shift + B" 打开或关闭书签栏 
