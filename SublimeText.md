@@ -34,5 +34,5 @@
 
     ![9](sublime/9.gif) 
     
-+ **AlignTab**
++ **对齐插件AlignTab**
 https://github.com/randy3k/AlignTab
