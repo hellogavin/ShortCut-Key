@@ -6,6 +6,8 @@
 
     ![2](sublime/2.gif)
     
++ **Ctrl + K,Ctrl + D** 跳过选区，在使用**Ctrl + D**时碰上不想选取的字符
+    
 + **Ctrl + Shift + M** 选择括号内的内容  
 
     ![3](sublime/3.gif)
@@ -34,5 +36,9 @@
 
     ![9](sublime/9.gif) 
     
++ **Ctrl + Shift + P** 打开Command Palette,可以进行插件安装、切换语法等，输入sslua即切换成lua
+    
 + **对齐插件AlignTab**
 https://github.com/randy3k/AlignTab
+
+参考网址：https://www.zhihu.com/question/24896283
